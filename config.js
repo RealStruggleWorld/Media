@@ -1,6 +1,7 @@
 // config.js - Media URLs and API endpoint configuration for Aiko Chat
 
 const aikoConfig = {
+  
   // Avatar image URL (make sure spaces are encoded as %20)
   aiko_avatar_img: "https://raw.githubusercontent.com/RealStruggleWorld/Media/main/source/avatar/avatar%20aiko.webp",
 
