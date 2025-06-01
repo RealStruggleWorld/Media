@@ -22,8 +22,10 @@ const yunaConfig = {
   yuna_audio_sorry: "https://raw.githubusercontent.com/RealStruggleWorld/Media/refs/heads/main/source/audio/yuna_sorry.mp3",
   yuna_audio_asleep: "https://raw.githubusercontent.com/RealStruggleWorld/Media/refs/heads/main/source/audio/yuna_asleep.mp3",
   yuna_api_endpoint: "https://ai-yuna.onrender.com/chat"
+  elara_endpoint: "https://elaramind.onrender.com/chat"
 };
 
 const aiko_yunaConfig = {
   aiko_yuna_api_endpoint: "https://ai-aiko-yuna.onrender.com/chat",
 };
+
