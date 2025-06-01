@@ -21,8 +21,8 @@ const yunaConfig = {
   yuna_audio_uwah: "https://raw.githubusercontent.com/RealStruggleWorld/Media/refs/heads/main/source/audio/yuna_uwah.mp3",
   yuna_audio_sorry: "https://raw.githubusercontent.com/RealStruggleWorld/Media/refs/heads/main/source/audio/yuna_sorry.mp3",
   yuna_audio_asleep: "https://raw.githubusercontent.com/RealStruggleWorld/Media/refs/heads/main/source/audio/yuna_asleep.mp3",
-  yuna_api_endpoint: "https://ai-yuna.onrender.com/chat"
-  elara_endpoint: "https://elaramind.onrender.com/chat"
+  yuna_api_endpoint: "https://ai-yuna.onrender.com/chat",
+  elara_api_endpoint: "https://elaramind.onrender.com/chat"
 };
 
 const aiko_yunaConfig = {
