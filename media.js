@@ -9,7 +9,7 @@ const aikoConfig = {
   aiko_audio_uwah: "https://raw.githubusercontent.com/RealStruggleWorld/Media/refs/heads/main/source/audio/typing_uwah.mp3",
   aiko_audio_sorry: "https://raw.githubusercontent.com/RealStruggleWorld/Media/refs/heads/main/source/audio/typing_sorry.mp3",
   aiko_audio_asleep: "https://raw.githubusercontent.com/RealStruggleWorld/Media/refs/heads/main/source/audio/typing_asleep.mp3",
-  aiko_api_endpoint: "https://aiko-ai.onrender.com/chat"
+  aiko_api_endpoint: ""
 };
 
 const yunaConfig = {
@@ -22,10 +22,5 @@ const yunaConfig = {
   yuna_audio_sorry: "https://raw.githubusercontent.com/RealStruggleWorld/Media/refs/heads/main/source/audio/yuna_sorry.mp3",
   yuna_audio_asleep: "https://raw.githubusercontent.com/RealStruggleWorld/Media/refs/heads/main/source/audio/yuna_asleep.mp3",
   yuna_api_endpoint: "https://ai-yuna.onrender.com/chat",
-  elara_api_endpoint: "https://elaramind.onrender.com/chat"
+  elara_api_endpoint: ""
 };
-
-const aiko_yunaConfig = {
-  aiko_yuna_api_endpoint: "https://ai-aiko-yuna.onrender.com/chat",
-};
-
